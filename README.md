@@ -4,6 +4,7 @@ COMP3005 - Assignment 3
 ----LIST OF FILES----
 1. StudentManager.java: contains the functions specified in the requirements
 2. Main.java: runs and tests methods from studentManager
+3. Queries.sql: contains queries to setup initial table
 
 ----HOW TO RUN----
 1. In intellij open project from VCS and use github link to import the project
