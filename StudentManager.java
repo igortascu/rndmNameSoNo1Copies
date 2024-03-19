@@ -3,7 +3,7 @@ import java.sql.*;
 public class StudentManager {
     private String url = "jdbc:postgresql://localhost:5432/Assignment3";
     private String user = "postgres";
-    private String password = "Igor1999";
+    private String password = "<PASSWORD>>";
 
     private Connection connect() throws ClassNotFoundException, SQLException {
         Class.forName("org.postgresql.Driver");
